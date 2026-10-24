@@ -1,8 +1,8 @@
 {
-  "packageName": "com.majnioui.cleanxiaomitv",
-  "versionCode": 7,
-  "versionName": "1.5.2",
-  "apkUrl": "https://github.com/USERNAME/CleanXiaomiTV/releases/download/v1.5.2/CleanXiaomiTV_MOOR2.apk",
-  "sha256": "MA_SHA256_THUC_TE_CUA_APK",
-  "notes": "Nâng cấp Liquid Glass, sửa lỗi giao diện"
+    "packageName":  "com.majnioui.cleanxiaomitv",
+    "versionCode":  2,
+    "versionName":  "1.0",
+    "apkUrl":  "https://github.com/lylyhecker/CleanXiaomiTV_MOOR2/releases/download/Ver-First/CleanXiaomiTV_MOOR2.apk",
+    "sha256":  "e7012aabfaa4d7141715e937f73475429211bacc35c7826d5442b8d458483354",
+    "notes":  "Nang cap Liquid Glass, sua do trong suot va thoi tiet"
 }
