@@ -1,8 +1,8 @@
 {
     "packageName":  "com.majnioui.cleanxiaomitv",
-    "versionCode":  2,
-    "versionName":  "1.0",
-    "apkUrl":  "https://github.com/lylyhecker/CleanXiaomiTV_MOOR2/releases/download/Ver-First/CleanXiaomiTV_MOOR2.apk",
-    "sha256":  "e7012aabfaa4d7141715e937f73475429211bacc35c7826d5442b8d458483354",
-    "notes":  "Nang cap Liquid Glass, sua do trong suot va thoi tiet"
+    "versionCode":  6,
+    "versionName":  "1.0.6",
+    "apkUrl":  "https://github.com/lylyhecker/CleanXiaomiTV_MOOR2/releases/download/v1.0.6/CleanXiaomiTV_MOOR2.apk",
+    "sha256":  "cf8250e77facc126db5d8a18bfaa9b76fbdf68d0aac4a71fb997f5aaaab1f952",
+    "notes":  "Fix Liquid Glass menu scroll and OTA versionCode"
 }
