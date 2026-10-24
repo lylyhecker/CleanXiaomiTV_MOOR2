@@ -4,5 +4,5 @@
     "versionName":  "1.0.7",
     "apkUrl":  "https://github.com/lylyhecker/CleanXiaomiTV_MOOR2/releases/download/v1.0.7/CleanXiaomiTV_MOOR2.apk",
     "sha256":  "60160fc2ab5fa1d11b48e1801e8083a6a2f86fdfddfa12439f267e52f5cf43d9",
-    "notes":  "Fix Liquid Glass menu scroll and OTA versionCode"
+    "notes":  "Fix OTA problems"
 }
