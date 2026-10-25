@@ -1,8 +1,8 @@
 {
     "packageName":  "com.majnioui.cleanxiaomitv",
-    "versionCode":  15,
-    "versionName":  "1.1.4",
-    "apkUrl":  "https://github.com/lylyhecker/CleanXiaomiTV_MOOR2/releases/download/v1.1.4/CleanXiaomiTV_MOOR2.apk",
-    "sha256":  "a94110aac2d9321b6ae5041af72c95af9bbb255f4201e5a8b9dcb81ddf095bcb",
-    "notes":  "MOOR2 v1.1.4 update"
+    "versionCode":  16,
+    "versionName":  "1.1.5",
+    "apkUrl":  "https://github.com/lylyhecker/CleanXiaomiTV_MOOR2/releases/download/v1.1.5/CleanXiaomiTV_MOOR2.apk",
+    "sha256":  "1236fe4f9781e406784336f19379858412b86edefee3b3d4a33af7a3472cc62e",
+    "notes":  "MOOR2 v1.1.5 update"
 }
