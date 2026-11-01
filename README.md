@@ -45,16 +45,28 @@ Thay vì một màn hình Home nhiều thành phần khó dùng, dự án hướ
 ## 🖼️ Giao diện
 
 <div align="center">
-  <img src="assets/home-preview.jpg" width="95%" alt="Bản dựng minh họa màn hình Home với Liquid Glass và Dock ứng dụng" />
+  <img src="assets/home-preview.jpg" width="95%" alt="Ảnh minh họa ý tưởng màn hình Home, không phải ảnh chụp từ TV" />
   <br />
-  <sub>Home · Dock ứng dụng · Thanh công cụ · Đồng hồ và thông tin thời tiết</sub>
-  <br /><br />
-  <img src="assets/settings-preview.jpg" width="95%" alt="Bản dựng minh họa menu tùy chỉnh giao diện Liquid Glass" />
-  <br />
-  <sub>Appearance · Tùy chỉnh độ trong suốt, màu kính, bo góc và hình nền</sub>
+  <sub>Home · Bản dựng ý tưởng, không phải ảnh chụp giao diện thực tế</sub>
 </div>
 
-> **Lưu ý:** Hai hình trên là **ảnh thiết kế minh họa**, không phải ảnh chụp trực tiếp từ APK phát hành. Giao diện thực tế có thể khác theo phiên bản và firmware.
+> [!NOTE]
+> **Ảnh Home là hình minh họa ý tưởng.** Ảnh menu **Appearance** từng được sử dụng đã bị gỡ vì không khớp giao diện trên TV. Chỉ thêm ảnh chụp thật sau khi xác nhận đúng phiên bản APK.
+
+### 🫧 Appearance — Tùy chỉnh Liquid Glass
+
+Thay vì hình minh họa không đúng, dưới đây là **những mục được khai báo trong mã nguồn `AppearanceSettings.java`** của bộ giao diện đang phát triển:
+
+| Mục trong menu | Chức năng |
+| :-- | :-- |
+| **Ảnh nền** | Chọn nền có sẵn hoặc ảnh cá nhân. |
+| **Độ trong suốt** | Điều chỉnh mức trong suốt cho những bề mặt kính có hỗ trợ thiết lập này. |
+| **Màu kính** | Chọn tông màu cho các thành phần Liquid Glass. |
+| **Độ bo góc** | Chỉnh độ bo góc của Dock và các khung kính được hỗ trợ. |
+| **Hiệu ứng màu theo Dock** | Chọn hiệu ứng màu liên quan đến Dock. |
+| **Khôi phục giao diện** | Đưa các tùy chỉnh giao diện về giá trị mặc định. |
+
+> **Trạng thái:** Đây là các tùy chọn trong **mã nguồn**, không phải cam kết mọi mục đều hiển thị hoặc hoạt động hoàn chỉnh trong bản APK phát hành. Đặc biệt, thanh trượt độ trong suốt có thể chưa tác động lên một số hộp thoại dùng màu nền cố định.
 
 <a id="tinh-nang"></a>
 
