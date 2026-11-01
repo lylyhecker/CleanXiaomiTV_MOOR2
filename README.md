@@ -50,8 +50,7 @@ Thay vì một màn hình Home nhiều thành phần khó dùng, dự án hướ
   <sub>Home · Bản dựng ý tưởng, không phải ảnh chụp giao diện thực tế</sub>
 </div>
 
-> [!NOTE]
-> **Ảnh Home là hình minh họa ý tưởng.** Ảnh menu **Appearance** từng được sử dụng đã bị gỡ vì không khớp giao diện trên TV. Chỉ thêm ảnh chụp thật sau khi xác nhận đúng phiên bản APK.
+
 
 ### 🫧 Appearance — Tùy chỉnh Liquid Glass
 
