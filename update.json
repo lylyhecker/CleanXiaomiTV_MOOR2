@@ -1,8 +1,8 @@
 {
     "packageName":  "com.majnioui.cleanxiaomitv",
-    "versionCode":  18,
-    "versionName":  "1.1.7",
-    "apkUrl":  "https://github.com/lylyhecker/CleanXiaomiTV_MOOR2/releases/download/v1.1.7/CleanXiaomiTV_MOOR2.apk",
-    "sha256":  "971ee95874c29103cd4795e7733e099fa7f645a37c45b5d2056cdadd5e82e1d0",
-    "notes":  "MOOR2 v1.1.7 update"
+    "versionCode":  20,
+    "versionName":  "1.1.9",
+    "apkUrl":  "https://github.com/lylyhecker/CleanXiaomiTV_MOOR2/releases/download/v1.1.9/CleanXiaomiTV_MOOR2.apk",
+    "sha256":  "9439f93c29e0b9acc403cfe862e50fe515191952bf7747b83b949c158c908a7b",
+    "notes":  "MOOR2 v1.1.9 - Liquid Glass Control Center v18"
 }
